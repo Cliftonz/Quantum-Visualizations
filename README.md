@@ -4,4 +4,4 @@ This project shows how to program and visualize a time dependant wavefunction fo
 
 ## Visuallization
 
-[visuallization](/gif/P.gif)
+[visuallization](gif/P.gif)
